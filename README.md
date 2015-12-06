@@ -1,0 +1,2 @@
+# smartTip
+Smart Tip Calculator
